@@ -1,0 +1,8 @@
+cryptography==2.1.4
+setuptools-rust==0.12.1
+django==3.2
+django-bootstrap3==14.2.0
+django-filter==2.4.0
+django-social-auth==0.7.28
+django-tables2==2.3.4
+social-auth-app-django==4.0.0
